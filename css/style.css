@@ -1,0 +1,30 @@
+body {
+    width: 100vw !important;
+    height: 100vh !important;
+}
+
+header {
+    height: 15vh;
+}
+
+main {
+    height: 75vh;
+}
+
+footer {
+    height: 10vh;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
+
+.navbar-brand {
+    color: #ffc107 !important;
+}
+
+#main2 {
+    padding-top: 150px;
+}
